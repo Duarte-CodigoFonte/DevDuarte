@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Duarte-CodigoFonte
-- 👀 Faço Faculdade de (Análise e Desenvolvimento de Sistemas)
-- 🌱 I’m currently learning Programaçâo (Digital Innovation.One
-- 💞️ Objetivos, me torma um desenvolvedor  FRONTEND?
--💕  Sou Apaixonado por tecnologia e praticidade.
-- 📫 Aonde me encontra /duarte.codigofonte@hotmail.com
+- 👋 Oi, sou @Duarte-CodigoFonte🏃🏻‍♂️🏃🏻‍♂️🏃🏻‍♂️🏃🏻‍♂️🏃🏻‍♂️
+- 👀 Faço Faculdade de (Análise e Desenvolvimento de Sistemas)😘
+- 🌱 Atualmente estou atualizando Programaçâo (Digital Innovation.One(^///^)
+- 💞️ Objetivos, me torma um desenvolvedor FRONTEND?(^///^)
+- 📫 Aonde me Encontra🚀 Nas Redes(●'◡'●)😘
 ## links Úteis Meu/linkedin
 [Sintaxe Basica Markdown](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile#:~:text=www.linkedin.com/in/duarte%2Dcodigofonte)
 ## Links Uteis Meu/ Twitter
