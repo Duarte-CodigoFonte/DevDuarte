@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Duarte-CodigoFonte
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Faço Faculdade de (Análise e Desenvolvimento de Sistemas)
+- 🌱 I’m currently learning Programaçâo (Digital Innovation.One
+- 💞️ Objetivos, me torma um desenvolvedor  FRONTEND?
+-💕  Sou Apaixonado por tecnologia e praticidade.
+- 📫 Aonde me encontra /duarte.codigofonte@hotmail.com
 
 <!---
 Duarte-CodigoFonte/Duarte-CodigoFonte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
