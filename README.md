@@ -28,7 +28,7 @@
 Se você contar sua ideia para 10 pessoas e 9 delas disser que você está maluco, provavelmente você está fazendo algo inovador.
 
 
-🚀🚀🚀🚀   👨🏻‍🎓💻📱   [**] (**) {**}  //,\\  //"\\  </> 🚀🚀🚀🚀 
+🚀🚀🚀🚀 👨🏻‍🎓💻📱    [ **] (** ) { **} //,\\ //"\\   </> 🚀🚀🚀🚀
 [
 
 
