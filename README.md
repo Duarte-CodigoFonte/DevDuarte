@@ -1,6 +1,6 @@
 - 👋Olá! eu Sou Duarte-CodigoFonte(/)📱💻💻
 
-[![Linkdin](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](duarte-codigofonte/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BtsxyhqvBRzSmGDXo2MKT1w%3D%3D)
+[![Linkdin](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://www.linkedin.com/in/duarte-codigofonte/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BtsxyhqvBRzSmGDXo2MKT1w%3D%3D)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://@DuarteCodigoFonte)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://@duarte.codigofonte)
 [![twitte](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://@Duarte.CodigoFonte)
