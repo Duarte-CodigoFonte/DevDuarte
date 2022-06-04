@@ -1,4 +1,4 @@
-- 👋Olá! eu Sou Duarte-CodigoFonte(/)📱💻💻
+- 👋Olá! eu Sou DevDuarte (/)📱💻💻
 
 [![Linkdin](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://www.linkedin.com/in/duarte-codigofonte/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BtsxyhqvBRzSmGDXo2MKT1w%3D%3D)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100080678540077&__cft__[0]=AZWbPripiWX-G1TT2jTJlLcQ3iJq3uhOlJYH5Vib7JcEuUP4NP2kwQy_QuIF-lYkIbxYR-NPpTkznArDYuPYYfyePc5Xk3eUFqBkQ8iUUUk_4s0K7Ld7evcp14VjeqHCe5xnJYOEFDBKFr-RvEBulmcE&__tn__=-]C%2CP-R)
